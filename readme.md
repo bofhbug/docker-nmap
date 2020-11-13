@@ -11,4 +11,5 @@ Docker Hub: [maxpeal/nmap](https://hub.docker.com/r/maxpeal/nmap/)
 ## Run
 
 `docker run maxpeal/nmap`
-
+or
+`docker run quay.io/maxpeal/nmap`
