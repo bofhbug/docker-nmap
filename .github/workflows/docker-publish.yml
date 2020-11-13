@@ -69,5 +69,5 @@ jobs:
           tags: |
             maxpeal/nmap:latest
             quay.io/maxpeal/nmap:latest
-            docker.pkg.github.com/maxpeal/docker-nmap/nmap:latest
+#docker.pkg.github.com/maxpeal/docker-nmap/nmap:latest
 #ghcr.io/maxpeal/docker-nmap:latest
