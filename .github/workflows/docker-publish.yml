@@ -5,6 +5,9 @@ name: docker-publish
 on:
   push:
     branches: master
+  watch:
+    types: [started]
+
 
 jobs:
   multi:
