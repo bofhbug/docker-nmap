@@ -1,5 +1,6 @@
 sut:
   build: .
+  entrypoint: /bin/sh -c
   command: docker-compose.test.yml.sh
   environment:
     - SOURCE_BRANCH
